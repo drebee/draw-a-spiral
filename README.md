@@ -21,7 +21,7 @@ conda install scipy
 The aloe polyphylla plant grows in a pattern with five golden spirals
 eminating from the same center.
 
-![](img/real_aloe_polyphylla.jpg)
+![](img/real_aloe_polyphylla.png)
 
 Make a function that draws a single golden spiral, and use that to draw a shape
 like the aloe polyphylla in `04_aloe_polyphylla.py`
