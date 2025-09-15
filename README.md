@@ -18,7 +18,7 @@ conda install scipy
 ![](img/smooth_golden_spiral.png)
 
 4. 
-The aloe polyphylla plant grows in a pattern with five golden spirals
+The aloe polyphylla plant grows in a pattern with five golden(ish) spirals
 eminating from the same center.
 
 ![](img/real_aloe_polyphylla.png)
